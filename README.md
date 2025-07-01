@@ -1,3 +1,4 @@
 # First-Repostry
-This is my git First repositry
-Aurther - Abdullah Shaikh
+This is my git First repositry.
+<br>
+Auther - Abdullah Shaikh
